@@ -4,5 +4,6 @@ public class Hond {
 
 	public static void main(String[] args) {
 		System.out.println("####> woef!!!");
+		System.out.println("###> waf!!!");
 	}
 }
